@@ -98,13 +98,20 @@
         cumulative GPA of 3.9 (Canadian System).
       </p>
       <p color="#a569bd">
-        I have a robust background in software engineering, including Python programming, object-oriented principles, data structures, and algorithms, enabling me to build scalable and           maintainable code. My front-end development skills, with proficiency in HTML, CSS, and JavaScript, complement my software engineering expertise. I am experienced in modern front-end frameworks, responsive design, and using Git for version control. My problem-solving abilities, attention to detail, and commitment to continuous learning allow me to tackle complex design and engineering challenges, delivering high-quality software solutions.
+        I have a robust background in software engineering, including Python programming, object-oriented principles, 
+        data structures, and algorithms, enabling me to build scalable and maintainable code. My front-end development skills,
+        with proficiency in HTML, CSS, and JavaScript, complement my software engineering expertise. 
+        I am experienced in modern front-end frameworks, responsive design, and using Git for version control.
+        My problem-solving abilities, attention to detail, and commitment to continuous learning allow me to 
+        tackle complex design and engineering challenges, delivering high-quality software solutions.
       </p>
       <p color="#a569bd">
-       
-Certainly! Here’s a revised version that emphasizes your passion, confidence, and professionalism:
-
-I am deeply passionate about advancing my expertise in machine learning and deep learning. I have successfully implemented a variety of machine learning algorithms, utilizing regression and classification techniques to deliver impactful results. By applying preprocessing methods, I ensure data is optimized for the best possible outcomes. Recently, I have been working extensively with TensorFlow and OpenCV on image-processing projects, focusing on image classification and segmentation. These experiences highlight my dedication to harnessing cutting-edge technologies to address real-world challenges. My enthusiasm for data science, data analysis, and AI fuels my continuous learning and innovation, driving me to stay at the forefront of advancements in this dynamic field.
+       I am deeply passionate about advancing my expertise in machine learning and deep learning. I have successfully implemented
+       a variety of machine learning algorithms, utilizing regression and classification techniques to deliver impactful results.
+        By applying preprocessing methods, I ensure data is optimized for the best possible outcomes. Recently, I have been working
+        with TensorFlow and OpenCV on image-processing projects, focusing on image classification and segmentation.
+        These experiences highlight my dedication to harnessing cutting-edge technologies to address real-world challenges.
+        My enthusiasm for data science, data analysis, and AI fuels my continuous learning and innovation, driving me to stay at the forefront of advancements in this dynamic field.
       </p>
     </section>
   </section>
@@ -285,17 +292,6 @@ I am deeply passionate about advancing my expertise in machine learning and deep
           width="50"
       /></a>
       <a
-        href="https://mariadb.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354039/mariadb.svg"
-          alt="MariaDB"
-          height="50"
-          width="50"
-      /></a>
-      <a
         href="https://github.com/"
         target="_blank"
         rel="noreferrer"
@@ -406,17 +402,6 @@ I am deeply passionate about advancing my expertise in machine learning and deep
           width="50"
       /></a>
       <a
-        href="https://postman.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354202/postman-icon.svg"
-          alt="Postman"
-          height="50"
-          width="50"
-      /></a>
-      <a
         href="https://www.microsoft.com/en-us/microsoft-365/excel"
         target="_blank"
         rel="noreferrer"
@@ -435,17 +420,6 @@ I am deeply passionate about advancing my expertise in machine learning and deep
         ><img
           src="https://www.svgrepo.com/show/382713/windows-applications.svg"
           alt="Windows"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.vmware.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png"
-          alt="vmware"
           height="50"
           width="50"
       /></a>
