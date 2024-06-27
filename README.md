@@ -93,29 +93,18 @@
     <br />
     <section align="center">
       <p color="#a569bd">
-        I'm a Software Engineer who graduated from Helwan University in June
-        2024 from the Faculty of Computers and Artificial Intelligence with a
-        cumulative GPA of 3.9 out of 4 (Canadian System).
+        I'm a Software Engineering student expected to graduate from the Faculty of Computers
+        and Artificial Intelligence in August 2024 with a
+        cumulative GPA of 3.9 (Canadian System).
       </p>
       <p color="#a569bd">
-        I possess two years of hands-on experience in web development. I have
-        completed projects using React.js and Angular for the front end, with a
-        solid understanding of DOM structure. On the backend, I've utilized
-        Node.js and PHP. My expertise extends to working with various databases,
-        including SQL (MySQL, SQL Server) and NoSQL (Firebase, MongoDB). I have
-        also done desktop applications using Java, eg. Task Manager for Ubuntu
-        OS.
+        I have a robust background in software engineering, including Python programming, object-oriented principles, data structures, and algorithms, enabling me to build scalable and           maintainable code. My front-end development skills, with proficiency in HTML, CSS, and JavaScript, complement my software engineering expertise. I am experienced in modern front-end frameworks, responsive design, and using Git for version control. My problem-solving abilities, attention to detail, and commitment to continuous learning allow me to tackle complex design and engineering challenges, delivering high-quality software solutions.
       </p>
       <p color="#a569bd">
-        At the moment, I'm passionate about expanding my skill set into Machine
-        Learning and Deep Learning. I have effectively implemented various
-        machine-learning algorithms for applying regression and classification
-        techniques. Additionally, I have applied preprocessing techniques to
-        optimize data for desired outcomes. Lately, I have dealt with libraries
-        like Tensorflow and OpenCV to do computer vision projects for
-        classifying and segmenting images. These experiences underscore my
-        commitment to leveraging cutting-edge technologies in solving real-world
-        challenges.
+       
+Certainly! Here’s a revised version that emphasizes your passion, confidence, and professionalism:
+
+I am deeply passionate about advancing my expertise in machine learning and deep learning. I have successfully implemented a variety of machine learning algorithms, utilizing regression and classification techniques to deliver impactful results. By applying preprocessing methods, I ensure data is optimized for the best possible outcomes. Recently, I have been working extensively with TensorFlow and OpenCV on image-processing projects, focusing on image classification and segmentation. These experiences highlight my dedication to harnessing cutting-edge technologies to address real-world challenges. My enthusiasm for data science, data analysis, and AI fuels my continuous learning and innovation, driving me to stay at the forefront of advancements in this dynamic field.
       </p>
     </section>
   </section>
@@ -130,6 +119,61 @@
     </h2>
     <br />
     <section align="center">
+            <a
+        href="https://pandas.pydata.org/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"
+          alt="Pandas"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://numpy.org/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/354127/numpy.svg"
+          alt="Numpy"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://scikit-learn.org/stable/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"
+          alt="Sci-kit learn"
+          height="50"
+          width="90"
+      /></a>
+      <a
+        href="https://www.tensorflow.org/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg"
+          alt="Tensorflow"
+          height="50"
+          width="50"
+      /></a>
+      <a
+        href="https://www.jupyter.com/"
+        target="_blank"
+        rel="noreferrer"
+        style="margin-right: 0.5rem"
+        ><img
+          src="https://www.svgrepo.com/show/353949/jupyter.svg"
+          alt="jupyter"
+          height="50"
+          width="50"
+      /></a>
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -138,17 +182,6 @@
         ><img
           src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
           alt="JS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303600/typescript-logo.svg"
-          alt="TS"
           height="50"
           width="50"
       /></a>
@@ -175,28 +208,6 @@
           width="50"
       /></a>
       <a
-        href="https://reactjs.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/355190/reactjs.svg"
-          alt="ReactJS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://angular.io"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373427/angular.svg"
-          alt="AngularJS"
-          height="50"
-          width="50"
-      /></a>
-      <a
         href="https://getbootstrap.com"
         target="_blank"
         rel="noreferrer"
@@ -204,17 +215,6 @@
         ><img
           src="https://www.svgrepo.com/show/353498/bootstrap.svg"
           alt="BootStrap"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://sass-lang.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/349502/sass.svg"
-          alt="SASS"
           height="50"
           width="50"
       /></a>
@@ -252,51 +252,6 @@
           width="50"
       /></a>
       <a
-        href="https://nodejs.org/en"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"
-          alt="NodeJs"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.php.net"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373970/php3.svg"
-          alt="PHP"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://flask.palletsprojects.com/en/3.0.x/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png"
-          alt="Flask"
-          height="50"
-          width="50"
-          style="filter: grayscale(100%)"
-      /></a>
-      <a
-        href="https://expressjs.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png"
-          alt="Express"
-          height="50"
-          width="90"
-      /></a>
-      <a
         href="https://www.apachefriends.org/"
         target="_blank"
         rel="noreferrer"
@@ -304,28 +259,6 @@
         ><img
           src="https://www.svgrepo.com/show/354575/xampp.svg"
           alt="xampp"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.mongodb.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/331488/mongodb.svg"
-          alt="mongodb"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://firebase.google.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg"
-          alt="Firebase"
           height="50"
           width="50"
       /></a>
@@ -484,17 +417,6 @@
           width="50"
       /></a>
       <a
-        href="https://www.alteryx.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
-          alt="Alteryx"
-          height="50"
-          width="90"
-      /></a>
-      <a
         href="https://www.microsoft.com/en-us/microsoft-365/excel"
         target="_blank"
         rel="noreferrer"
@@ -506,17 +428,6 @@
           width="50"
       /></a>
       <a
-        href="https://www.photoshop.com/en"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373968/photoshop.svg"
-          alt="photoshop"
-          height="50"
-          width="50"
-      /></a>
-      <a
         href="https://www.microsoft.com/en-us/windows?r=1"
         target="_blank"
         rel="noreferrer"
@@ -524,17 +435,6 @@
         ><img
           src="https://www.svgrepo.com/show/382713/windows-applications.svg"
           alt="Windows"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://ubuntu.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354481/ubuntu.svg"
-          alt="Ubuntu"
           height="50"
           width="50"
       /></a>
