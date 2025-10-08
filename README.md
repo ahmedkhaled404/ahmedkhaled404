@@ -93,8 +93,7 @@
     <br />
     <section align="center">
       <p color="#a569bd">
-        I'm a Software Engineering student expected to graduate from the Faculty of Computers
-        and Artificial Intelligence in August 2024 with a
+        I'm a Software Engineering Fresh Graduate with a
         cumulative GPA of 3.9 (Canadian System).
       </p>
       <p color="#a569bd">
